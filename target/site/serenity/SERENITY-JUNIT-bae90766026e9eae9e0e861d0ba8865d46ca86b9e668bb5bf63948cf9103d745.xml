@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Octopus Investments" skipped="0" tests="7" time="149.57" timestamp="2020-02-15 02:35:41"><testcase name="Search people and verify the result"/><testcase name="Verify profile of person after clink on his image"/><testcase name="Verify and sort by Z-A"/></testsuite>

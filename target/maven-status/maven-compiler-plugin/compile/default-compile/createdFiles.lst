@@ -1,0 +1,7 @@
+com\octopusinvestments\basepage\BasePage.class
+com\octopusinvestments\util\Utilities.class
+com\octopusinvestments\pageobject\HomePage.class
+com\octopusinvestments\pageobject\PersonProfilePage.class
+com\octopusinvestments\property\LoadProperties.class
+com\octopusinvestments\browserselector\BrowserSelector.class
+com\octopusinvestments\pageobject\SortByPage.class
